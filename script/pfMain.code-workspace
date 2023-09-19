@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"name": "pfMain",
+			"path": ".."
+		},
+		{
+			"name": "script",
+			"path": "../../../0911/멀티메뉴/script"
+		},
+		{
+			"name": "css",
+			"path": "../../../0911/멀티메뉴/css"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "pfMain"
+	}
+}
